@@ -1,0 +1,9 @@
+streamlit==1.50.0
+tensorflow==2.12.0
+numpy==1.23.5
+pillow
+opencv-python-headless
+matplotlib
+tqdm
+termcolor
+absl-py
